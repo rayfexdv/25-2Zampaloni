@@ -217,6 +217,11 @@ iframe{
   box-shadow: 0 0 15px rgba(0,0,0,0.15);
 }
 
+.tomo .texto{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    font-size: 1.3rem;
+}
+
 .rojo{
         background-color: rgb(130, 8, 31);
 }
